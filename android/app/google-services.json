@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345567925352",
+    "project_id": "chatdosapp",
+    "storage_bucket": "chatdosapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345567925352:android:81090fe0ae809e969157dd",
+        "android_client_info": {
+          "package_name": "com.chatdoss.rkz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuD_Zhvq5GTpG76VbBTeCeykbSY0_mRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

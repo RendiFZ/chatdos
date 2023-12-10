@@ -1,0 +1,49 @@
+name: chatdos
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  firebase_storage:
+  image_picker:
+  path:
+  intl:
+  flutter_local_notifications:
+  firebase_messaging:
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  change_app_package_name:
+  url_launcher:
+  
+
+
+  flutter_lints: ^3.0.1
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/default_profile_icon.png
+
